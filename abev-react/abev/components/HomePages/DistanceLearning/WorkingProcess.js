@@ -13,7 +13,7 @@ const WorkingProcess = () => {
             <div className="working-process-content style-two">
               <span className="sub-title">Registration Process</span>
               <h2 className="nunito-font">
-                Dedicated to help anything people’s needs
+                Dédié à aider tout ce dont les gens ont besoin
               </h2>
               <ul className="working-process-list">
                 <li data-aos="fade-up" data-aos-duration="1200">

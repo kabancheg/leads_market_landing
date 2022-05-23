@@ -18,8 +18,8 @@ const AboutUs = () => {
       <div className="page-title-area">
         <div className="container">
           <div className="page-title-content">
-            <span className="sub-title red-light-color">About Us</span>
-            <h1>Hello World! This is Abev!</h1>
+            <span className="sub-title red-light-color">Qui sommes nous?</span>
+            <h1>A propos d'Instaleads</h1>
           </div>
         </div>
       </div>

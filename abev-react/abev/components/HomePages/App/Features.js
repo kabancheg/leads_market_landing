@@ -6,7 +6,7 @@ const Features = () => {
       <div className="container">
         <div className="section-title">
           <span className="sub-title light-green-color">Principales caractéristiques</span>
-          <h2>Très probablement inclus les meilleures fonctionnalités de tous les temps</h2>
+          <h2>Probablement la meilleur plateforme de leads</h2>
         </div>
         <div className="row justify-content-center">
           <div
@@ -18,11 +18,11 @@ const Features = () => {
               <div className="icon">
                 <i className="flaticon-fast-time"></i>
               </div>
-              <h3>En tempes reel</h3>
-              {/* <p>
+              <h3>En temps réél</h3>
+              { <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p> }
             </div>
           </div>
           <div
@@ -35,11 +35,11 @@ const Features = () => {
               <div className="icon">
                 <i className="flaticon-credit-card"></i>
               </div>
-              <h3>Paiement a l'unite</h3>
-              {/* <p>
+              <h3>Paiement à l'unité</h3>
+              { <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p> }
             </div>
           </div>
           <div
@@ -52,11 +52,11 @@ const Features = () => {
               <div className="icon">
                 <i className="flaticon-money-exchange"></i>
               </div>
-              <h3>Facture a la reception</h3>
-              {/* <p>
+              <h3>Facture à la reception</h3>
+              {<p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p> }
             </div>
           </div>
           <div
@@ -68,11 +68,11 @@ const Features = () => {
               <div className="icon">
                 <i className="flaticon-updated"></i>
               </div>
-              <h3>Prospect verifie</h3>
-              {/* <p>
+              <h3>Prospect verifié</h3>
+              {<p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p>}
             </div>
           </div>
           <div
@@ -85,11 +85,11 @@ const Features = () => {
               <div className="icon">
                 <i className="flaticon-brain"></i>
               </div>
-              <h3>Pospect qualifie</h3>
-              {/* <p>
+              <h3>Prospect qualifié et exclusif</h3>
+              { <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p> }
             </div>
           </div>
           <div
@@ -103,10 +103,10 @@ const Features = () => {
                 <i className="flaticon-secure-shield"></i>
               </div>
               <h3>Exclusif</h3>
-              {/* <p>
+              { <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed est
                 non feugiat feu sagittis, donec.
-              </p> */}
+              </p> }
             </div>
           </div>
         </div>

@@ -184,7 +184,7 @@ App Banner Area CSS
 		animation: border-transform 10s linear infinite alternate forwards;
 		background: linear-gradient(
 			178.9deg,
-			#87f1ff 0.91%,
+			#ffd051 0.91%,
 			rgba(236, 253, 255, 0.21) 99.06%
 		);
 	}
@@ -1038,7 +1038,7 @@ Services Area CSS
 			background: rgba(196, 196, 196, 0.16);
 		}
 		&.color-ff004d {
-			color: #ff004d;
+			color: #ffd051;
 		}
 		&.color-d48000 {
 			color: #d48000;
@@ -1345,7 +1345,7 @@ Services Area CSS
 					forwards;
 				background: linear-gradient(
 					180deg,
-					#87f1ff 0%,
+					#ffd051 0%,
 					rgba(236, 253, 255, 0.21) 100%
 				);
 			}
@@ -1376,7 +1376,7 @@ Services Area CSS
 					forwards;
 				background: linear-gradient(
 					180deg,
-					#87f1ff 0%,
+					#ffd051 0%,
 					rgba(236, 253, 255, 0.21) 100%
 				);
 				margin: {
@@ -1741,7 +1741,7 @@ Features Area CSS
 		width: 82px;
 		height: 82px;
 		font-size: 45px;
-		color: #ff004d;
+		color: #ffd051;
 		position: relative;
 		text-align: center;
 		border-radius: 10px;
@@ -1769,7 +1769,7 @@ Features Area CSS
 		transform: translateY(-10px);
 
 		.icon {
-			background-color: #ff004d;
+			background-color: #ffd051;
 			color: var(--whiteColor);
 		}
 	}
@@ -3093,7 +3093,7 @@ Case Studies Area CSS
 			content: "";
 			height: 35.6%;
 			position: absolute;
-			background-color: #fff4f8;
+			background-color: #f2fdfd;
 		}
 	}
 	.container-fluid {
@@ -3737,7 +3737,7 @@ Testimonials Area CSS
 		margin-bottom: 18px;
 
 		i {
-			color: #ffaa29;
+			color: #ffd051;
 			font-size: 20px;
 			line-height: 1;
 		}
@@ -6245,7 +6245,7 @@ Pricing Area CSS
 			}
 			&.close {
 				i {
-					background-color: #ff004d;
+					background-color: #ffd051;
 				}
 			}
 			&:hover {

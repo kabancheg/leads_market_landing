@@ -31,8 +31,8 @@ const Faq = () => {
     <div className="faq-area bg-f3feff ptb-100">
       <div className="container">
         <div className="section-title">
-          <span className="sub-title">Frequently Ask & Question</span>
-          <h2>Dedicated to help anything people’s needs</h2>
+          <span className="sub-title">Foire aux questions </span>
+          <h2>Dédié à aider tout ce dont les gens ont besoin</h2>
         </div>
         <div className="faq-accordion style-two">
           <div className="accordion" id="faqAccordion">

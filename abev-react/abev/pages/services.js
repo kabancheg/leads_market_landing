@@ -16,7 +16,7 @@ const Index = () => {
             {/* <span className="sub-title yellow-color">
               Learn at your own pace
             </span> */}
-            <h1>Nos Activites</h1>
+            <h1>Thématiques Leads </h1>
           </div>
         </div>
       </div>

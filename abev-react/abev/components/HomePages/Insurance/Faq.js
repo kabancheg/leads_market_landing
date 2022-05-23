@@ -35,7 +35,7 @@ const Faq = () => {
       <div className="container">
         <div className="section-title">
           <span className="sub-title dark-green-color">
-            Frequently Ask & Question
+            Foire aux questions 
           </span>
           <h2 className="nunito-font">
             Dedicated to help anything people&apos;s needs

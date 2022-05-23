@@ -36,7 +36,7 @@ const Content = () => {
                 <div className="price">$45</div>
                 <h3 className="nunito-font">
                   <Link href="/courses/courses-details">
-                    <a>Make a 2D Platformer with State Machines in Unity</a>
+                    <a>Pompe a chaleur</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">

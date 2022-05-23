@@ -34,8 +34,8 @@ const Faq = () => {
     <div className="faq-area with-top-border ptb-100">
       <div className="container">
         <div className="section-title">
-          <span className="sub-title">Frequently Ask & Question</span>
-          <h2>Dedicated to help anything people’s needs</h2>
+          <span className="sub-title">Foire aux questions </span>
+          <h2>Dédié à aider tout ce dont les gens ont besoin</h2>
         </div>
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-12">

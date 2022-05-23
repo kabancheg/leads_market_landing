@@ -26,27 +26,27 @@ const Banner = () => {
               >
                 Acheter vos leads en instantanée devient possible
               </h1>
-              {/* <p
+              { <p
                 data-aos="fade-up"
                 data-aos-duration="1200"
                 data-aos-delay="200"
               >
-                Velit hendrerit sit auctor tempor sem. Congue mi tempor
+                Afin de simplifier l'acquisition de client. Congue mi tempor
                 condimentum felis arcu, non cursus. Nulla pharetra porttitor sed
                 platea arcu et leo odio.
-              </p> */}
+              </p> }
               <div
                 className="btn-box"
                 data-aos="fade-up"
                 data-aos-duration="1200"
                 data-aos-delay="300"
               >
-                <a href="https://cpf.instaleads.fr" className="btn-style-one light-green-color">
-                  Formation CPF<i className="bx bx-chevron-right"></i>
+                <a href="/how" className="btn-style-one light-green-color">
+                  Comment ça marche ?
                 </a>
 
-                <a href="https://pro.monartisanrge.fr" className="btn-style-one white-color">
-                  Energie renouvelable <i className="bx bx-chevron-right"></i>
+                <a href="/market" className="btn-style-one white-color">
+                 Lead Market <i className="bx bx-chevron-right"></i>
                 </a>
               </div>
             </div>
@@ -63,9 +63,9 @@ const Banner = () => {
                 />
               </div>
 
-              {/* <div className="img" style={{ boxShadow: "4px 4px 8px 0px rgba(34, 60, 80, 0.2)" }}>
+              <div className="img">
                 <Image src={bannerImg3} alt="banner-image" />
-              </div> */}
+              </div> 
             </div>
           </div>
         </div>

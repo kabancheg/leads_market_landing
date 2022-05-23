@@ -11,7 +11,7 @@ const WorkingProcess = () => {
           <div className="col-lg-6 col-md-12">
             <div className="working-process-content">
               <span className="sub-title">Our Working Process</span>
-              <h2>Dedicated to help anything people’s needs</h2>
+              <h2>Dédié à aider tout ce dont les gens ont besoin</h2>
               <ul className="working-process-list">
                 <li data-aos="fade-up" data-aos-duration="1200">
                   <div className="number">1</div>

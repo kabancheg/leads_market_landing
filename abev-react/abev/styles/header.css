@@ -16,7 +16,7 @@
   width: 100%;
   z-index: 999;
   position: fixed;
-  background-color: #dbfaff !important;
+  background-color: #80c6c8 !important;
   -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
           box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -938,7 +938,7 @@
 /* Max width 991px */
 @media only screen and (max-width: 991px) {
   .navbar-area {
-    background-color: #fff;
+    background-color: #80c6c8;
   }
   .navbar-area.white-navbar {
     background-color: var(--blackColor) !important;

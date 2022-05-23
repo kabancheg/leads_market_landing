@@ -3,7 +3,7 @@ import Link from "@/utils/ActiveLink";
 import Image from "next/image";
 
 import logo from "@/public/images/logo.png";
-import courseImg from "@/public/images/navbar.jpg";
+// import courseImg from "@/public/images/navbar.jpg";
 
 const Navbar3 = () => {
   const [menu, setMenu] = React.useState(true);
@@ -35,9 +35,17 @@ const Navbar3 = () => {
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <Link href="/">
               <a className="navbar-brand">
-                <Image src={logo} alt="site logo" width={112} height={40} />
+                <Image src={logo} alt="site logo" width={170} height={27} />
               </a>
             </Link>
+
+            <div className="others-option">
+              <Link href="https://pro.monartisanrge.fr" activeClassName="active">
+                <a className="btn-style-one red-light-color">
+                  Lead Market <i className="bx bx-chevron-right"></i>
+                </a>
+              </Link>
+            </div>
 
             <button
               onClick={toggleNavbar}
@@ -57,14 +65,19 @@ const Navbar3 = () => {
             <div className={classOne} id="navbarSupportedContent">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a href="https://pro.monartisanrge.fr" className="nav-link">Energie renouvelable</a>
+                  <a href="/" className="nav-link">Accueil</a>
                 </li>
                 <li className="nav-item">
-                  <a href="https://cpf.instaleads.fr" className="nav-link">Formation CPF</a>
+                  <a href="/about-us" className="nav-link">A propos</a>
+                </li>
+                <li className="nav-item">
+                  <Link href="/how" activeClassName="active">
+                    <a className="nav-link">Fonctionnement</a>
+                  </Link>
                 </li>
                 <li className="nav-item">
                   <Link href="/services" activeClassName="active">
-                    <a className="nav-link">Services</a>
+                    <a className="nav-link">Thématique</a>
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -75,13 +88,7 @@ const Navbar3 = () => {
               </ul>
             </div>
 
-            {/* <div className="others-option">
-              <Link href="/pricing" activeClassName="active">
-                <a className="btn-style-one red-light-color">
-                  Download Now <i className="bx bx-chevron-right"></i>
-                </a>
-              </Link>
-            </div> */}
+           
           </nav>
         </div>
       </div>

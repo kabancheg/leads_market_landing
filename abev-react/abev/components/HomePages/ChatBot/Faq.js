@@ -35,10 +35,10 @@ const Faq = () => {
       <div className="container">
         <div className="section-title">
           <span className="sub-title purple-color">
-            Frequently Ask & Question
+            Foire aux questions 
           </span>
           <h2 className="nunito-font">
-            Dedicated to help anything people’s needs
+            Dédié à aider tout ce dont les gens ont besoin
           </h2>
         </div>
         <div className="row align-items-center">

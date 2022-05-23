@@ -23,7 +23,7 @@ const Banner = () => {
                 data-aos-duration="1200"
                 data-aos-delay="100"
               >
-                Velit hendrerit sit auctor tempor sem. Congue mi tempor
+                Afin de simplifier l'acquisition de client. Congue mi tempor
                 condimentum felis arcu, non cursus. Nulla pharetra porttitor sed
                 platea arcu et leo odio.
               </p>
@@ -35,7 +35,7 @@ const Banner = () => {
               >
                 <Link href="/contact">
                   <a className="btn-style-one purple-color">
-                    Get Started Now <i className="bx bx-chevron-right"></i>
+                    Créer votre compte <i className="bx bx-chevron-right"></i>
                   </a>
                 </Link>
                 <Link href="/about-us-1">

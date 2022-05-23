@@ -16,13 +16,13 @@ const Banner = () => {
             <div className="it-startup-banner-content">
               <h1>Secure IT solutions for a more secure environment</h1>
               <p>
-                Velit hendrerit sit auctor tempor sem. Congue mi tempor
+                Afin de simplifier l'acquisition de client. Congue mi tempor
                 condimentum felis arcu, non cursus. Nulla pharetra porttitor sed
                 platea arcu et leo odio.
               </p>
               <Link href="/contact">
                 <a className="btn-style-one red-light-color">
-                  Get Started Now <i className="bx bx-chevron-right"></i>
+                  Créer votre compte <i className="bx bx-chevron-right"></i>
                 </a>
               </Link>
             </div>

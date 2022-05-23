@@ -78,7 +78,7 @@ const HowToApply = () => {
               <div className="lets-start-box">
                 <Link href="/contact">
                   <a className="btn-style-one dark-green-color">
-                    Get Started Now <i className="bx bx-chevron-right"></i>
+                    Créer votre compte <i className="bx bx-chevron-right"></i>
                   </a>
                 </Link>
               </div>

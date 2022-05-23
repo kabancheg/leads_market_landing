@@ -33,12 +33,12 @@ const FeatureTwo = () => {
             </div>
 
             <div className="col-lg-5 col-md-12 overview-content">
-              <span className="sub-title">Send & Receive Payments</span>
-              <h2>Online payments for any business setup</h2>
+              <span className="sub-title">Acquisition en Instantanée</span>
+              <h2>Précommandez vos leads et recevez les Instantanément</h2>
               <ul className="overview-list">
                 <li data-aos="fade-up" data-aos-duration="1200">
                   <i className="flaticon-draw-check-mark"></i>
-                  Verification for 1 business day
+                  Leads qualifiés et exclusifs
                 </li>
                 <li
                   data-aos="fade-up"
@@ -46,7 +46,7 @@ const FeatureTwo = () => {
                   data-aos-delay="100"
                 >
                   <i className="flaticon-draw-check-mark"></i>
-                  No setup fee, no hidden fees
+                  Réception instantanée sur Google Sheet
                 </li>
                 <li
                   data-aos="fade-up"
@@ -54,7 +54,7 @@ const FeatureTwo = () => {
                   data-aos-delay="200"
                 >
                   <i className="flaticon-draw-check-mark"></i>
-                  Transparent payouts details
+                  Trie doublon ou faux numéro
                 </li>
               </ul>
               <div
@@ -65,7 +65,7 @@ const FeatureTwo = () => {
               >
                 <Link href="/contact">
                   <a className="btn-style-one light-green-color">
-                    Get Started Now <i className="bx bx-chevron-right"></i>
+                    Créer votre compte <i className="bx bx-chevron-right"></i>
                   </a>
                 </Link>
               </div>
@@ -108,7 +108,7 @@ const FeatureTwo = () => {
               >
                 <Link href="/contact">
                   <a className="btn-style-one light-green-color">
-                    Get Started Now <i className="bx bx-chevron-right"></i>
+                    Créer votre compte <i className="bx bx-chevron-right"></i>
                   </a>
                 </Link>
               </div>

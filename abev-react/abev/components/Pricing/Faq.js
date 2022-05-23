@@ -28,7 +28,7 @@ const Faq = () => {
       <div className="container">
         <div className="section-title">
           <span className="sub-title">Pricing FAQ</span>
-          <h2>Dedicated to help anything people’s needs</h2>
+          <h2>Dédié à aider tout ce dont les gens ont besoin</h2>
         </div>
         <div className="faq-accordion style-two">
           <div className="accordion" id="faqAccordion">

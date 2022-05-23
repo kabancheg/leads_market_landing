@@ -15,8 +15,8 @@ const Courses = () => {
     <div className="courses-area pt-100 pb-75">
       <div className="container">
         <div className="section-title">
-          <span className="sub-title yellow-color">Learn at your own pace</span>
-          <h2 className="nunito-font">Abev Popular Courses</h2>
+          <span className="sub-title yellow-color">Alimentez vos commerciaux</span>
+          <h2 className="nunito-font">Thématique des Leads</h2>
         </div>
         <div className="row justify-content-center">
           <div
@@ -31,10 +31,10 @@ const Courses = () => {
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$45</div>
+                <div className="price">12€</div>
                 <h3 className="nunito-font">
                   <Link href="/courses/courses-details">
-                    <a>Make a 2D Platformer with State Machines in Unity</a>
+                    <a>Pompe â chaleur</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
@@ -43,20 +43,20 @@ const Courses = () => {
                       <div className="img">
                         <Image src={userImg1} alt="author" />
                       </div>
-                      <span>David Allen</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">Populaire</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 14 Lessons
+                  <i className="flaticon-recruitment"></i> 14 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 125 Students
+                  <i className="flaticon-team"></i> 25 Departement
                 </li>
               </ul>
             </div>
@@ -74,11 +74,11 @@ const Courses = () => {
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$55</div>
+                <div className="price">55€</div>
                 <h3 className="nunito-font">
                   <Link href="/courses/courses-details">
                     <a>
-                      Write Like a Boss: Master Your Business Writing Skills
+                      Isolation Thermique Exterieur
                     </a>
                   </Link>
                 </h3>
@@ -88,7 +88,7 @@ const Courses = () => {
                       <div className="img">
                         <Image src={userImg2} alt="author" />
                       </div>
-                      <span>Alina Smith</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
@@ -98,10 +98,10 @@ const Courses = () => {
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 10 Lessons
+                  <i className="flaticon-video-player"></i> 10 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 50 Students
+                  <i className="flaticon-team"></i> 50 Departement
                 </li>
               </ul>
             </div>
@@ -119,10 +119,10 @@ const Courses = () => {
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$69</div>
+                <div className="price">69€</div>
                 <h3 className="nunito-font">
                   <Link href="/courses/courses-details">
-                    <a>Asynchronous JavaScript: Promises, Callbacks</a>
+                    <a>Chaudière a granulé</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
@@ -131,7 +131,7 @@ const Courses = () => {
                       <div className="img">
                         <Image src={userImg3} alt="author" />
                       </div>
-                      <span>James Andy</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
@@ -141,10 +141,10 @@ const Courses = () => {
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 09 Lessons
+                  <i className="flaticon-video-player"></i> 09 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 41 Students
+                  <i className="flaticon-team"></i> 41 Département
                 </li>
               </ul>
             </div>

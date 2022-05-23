@@ -32,7 +32,7 @@ const DetailsTop = () => {
                     <span>4.0 (2 rating)</span>
                   </div>
                 </div>
-                <h2>Make a 2D Platformer with State Machines in Unity</h2>
+                <h2>Pompe a chaleur</h2>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.

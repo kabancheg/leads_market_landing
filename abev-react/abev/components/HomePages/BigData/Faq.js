@@ -42,7 +42,7 @@ const Faq = () => {
       <div className="container">
         <div className="section-title">
           <h2 className="nunito-font">
-            Dedicated to help anything people’s needs
+            Dédié à aider tout ce dont les gens ont besoin
           </h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur

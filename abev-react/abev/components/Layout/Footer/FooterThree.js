@@ -15,7 +15,7 @@ const FooterThree = () => {
             <div className="single-footer-widget">
               <Link href="/">
                 <a className="logo">
-                  <Image src={logo} alt="logo" />
+                  <Image src={logo} alt="logo" width="200" height="35"/>
                 </a>
               </Link>
               <p>
@@ -31,7 +31,7 @@ const FooterThree = () => {
                     <i className="flaticon-facebook-app-symbol"></i>
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
                     href="https://www.twitter.com/"
                     target="_blank"
@@ -57,7 +57,7 @@ const FooterThree = () => {
                   >
                     <i className="flaticon-instagram"></i>
                   </a>
-                </li> */}
+                </li> 
               </ul>
             </div>
           </div>
@@ -110,7 +110,7 @@ const FooterThree = () => {
       <div className="copyright-area">
         <div className="container">
           <p>
-            Copyright &copy; {currentYear} Aveb. All Rights Reserved by{" "}
+            Copyright &copy; {currentYear} Instaleads. All Rights Reserved by{" "}
             <a href="https://instaleads.fr/" target="_blank" rel="noreferrer">
               Instaleads
             </a>

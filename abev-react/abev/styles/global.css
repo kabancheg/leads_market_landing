@@ -4,15 +4,15 @@ Global CSS
 :root {
   --fontFamily: "Be Vietnam Pro", sans-serif;
   --nunitoFontFamily: "Nunito Sans", sans-serif;
-  --redLightColor: #ff004d;
-  --blueDarkColor: #473bf0;
-  --lightGreenColor: #00b3cc;
+  --redLightColor: #ffd051;
+  --blueDarkColor: #0a1342;
+  --lightGreenColor: #73c1c4;
   --darkGreenColor: #2e85a1;
   --crimsonColor: #ca526e;
   --greenColor: #74c2c4;
   --greenColor2: #74c2c4;
   --orangeColor: #ff5512;
-  --yellowColor: #ffaa29;
+  --yellowColor: #ffd051;
   --crimsonLightColor: #ff6395;
   --purpleColor: #c211a1;
   --paragraphColor: #616b7e;
@@ -127,7 +127,7 @@ p:last-child {
 }
 
 .bg-fff4f8 {
-  background-color: #fff4f8;
+  background-color: #f2fdfd;
 }
 
 .bg-f3feff {
