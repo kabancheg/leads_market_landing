@@ -1,6 +1,6 @@
 FROM nginxinc/nginx-unprivileged:1-alpine
 
-COPY ./default_old.conf.tpl /etc/nginx/default.conf.tpl
+COPY ./default.conf.tpl /etc/nginx/default.conf.tpl
 COPY ./run.sh /run.sh
 
 USER root
