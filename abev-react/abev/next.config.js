@@ -14,7 +14,7 @@ module.exports = {
     },
     images: {
         loader: 'akamai',
-        path: process.env.NODE_ENV === "production" ? 'https://monartisanrge.org/test' : 'http://localhost:3000'
+        path: process.env.NODE_ENV === "production" ? 'https://instaleads.fr/' : 'http://localhost:3000'
     },
     optimizeFonts: false,
 }
