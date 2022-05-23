@@ -1,0 +1,29 @@
+services:
+
+  nextjs:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+
+  proxy:
+    build:
+      context: ./proxy_nextjs
+    restart: always
+    depends_on:
+      - nextjs
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./data/certbot/conf:/etc/letsencrypt
+      - ./data/certbot/www:/var/www/certbot
+  
+  certbot:
+    image: certbot/certbot
+    volumes:
+      - ./data/certbot/conf:/etc/letsencrypt
+      - ./data/certbot/www:/var/www/certbot
+    entrypoint: "/bin/sh -c \"trap exit TERM; while :; do certbot renew --post-hook 'chown -R nginx:nginx /etc/letsencrypt'; sleep 12h & wait $${!}; done;\""
+
+  
