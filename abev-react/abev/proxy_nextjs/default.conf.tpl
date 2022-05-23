@@ -28,8 +28,8 @@ server {
     gzip_comp_level 4;
     gzip_types text/css application/javascript image/svg+xml;
 
-    ssl_certificate /etc/letsencrypt/live/instaleads.ru/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/instaleads.ru/privkey.pem;
+    ssl_certificate /etc/letsencrypt/live/instaleads.fr/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/instaleads.fr/privkey.pem;
 
     include /etc/letsencrypt/options-ssl-nginx.conf;
     ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
