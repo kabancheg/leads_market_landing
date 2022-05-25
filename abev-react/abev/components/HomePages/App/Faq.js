@@ -3,9 +3,9 @@ import Accordion from "@/components/Accordion";
 
 const questionsAnswers = [
   {
-    question: "How many team members can I invite?",
+    question: "Combien de leads puis je acheter?",
     answer:
-      "You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.",
+      "Vous n'avez pas de limites d'achat, There is no limit on team members for the Premium plan.",
   },
   {
     question: "What is the maximum file upload size?",

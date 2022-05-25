@@ -15,7 +15,7 @@ const WorkingProcess = () => {
               <ul className="working-process-list">
                 <li data-aos="fade-up" data-aos-duration="1200">
                   <div className="number">1</div>
-                  <h3>Analysis & Research</h3>
+                  <h3>Pre commander & acheter en direct</h3>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     est non feugiat sagittis, donec.
@@ -27,7 +27,7 @@ const WorkingProcess = () => {
                   data-aos-delay="100"
                 >
                   <div className="number">2</div>
-                  <h3>Define Your Goals</h3>
+                  <h3>Ajouter au panier</h3>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     est non feugiat sagittis, donec.
@@ -39,7 +39,7 @@ const WorkingProcess = () => {
                   data-aos-delay="200"
                 >
                   <div className="number">3</div>
-                  <h3>Monitor the Results</h3>
+                  <h3>Recevez vos leads instantly</h3>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     est non feugiat sagittis, donec.

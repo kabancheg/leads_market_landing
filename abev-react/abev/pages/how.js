@@ -18,19 +18,14 @@ const AboutUs = () => {
       <div className="page-title-area">
         <div className="container">
           <div className="page-title-content">
-            <span className="sub-title red-light-color">Qui sommes nous?</span>
-            <h1>A propos d'Instaleads</h1>
+            <span className="sub-title red-light-color">Comment ca marche?</span>
+            <h1>Fonctionnement</h1>
           </div>
         </div>
       </div>
-      <AboutArea />
-      <Overview />
-      <Funfacts />
-      <Team />
-      <Partners />
-      <div className="ptb-100">
-        <GetStarted />
-      </div>
+      <WorkingProcess />
+    
+      
       <FooterThree />
     </>
   );

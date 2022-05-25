@@ -3,7 +3,7 @@ import Link from "@/utils/ActiveLink";
 import Image from "next/image";
 
 import logo from "@/public/images/logo.png";
-// import courseImg from "@/public/images/navbar.jpg";
+import courseImg from "@/public/images/navbar.jpg";
 
 const Navbar3 = () => {
   const [menu, setMenu] = React.useState(true);
@@ -39,14 +39,6 @@ const Navbar3 = () => {
               </a>
             </Link>
 
-            <div className="others-option">
-              <Link href="https://pro.monartisanrge.fr" activeClassName="active">
-                <a className="btn-style-one red-light-color">
-                  Lead Market <i className="bx bx-chevron-right"></i>
-                </a>
-              </Link>
-            </div>
-
             <button
               onClick={toggleNavbar}
               className={classTwo}
@@ -81,6 +73,11 @@ const Navbar3 = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
+                  <Link href="/blog" activeClassName="active">
+                    <a className="nav-link">Blog</a>
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link href="/contact" activeClassName="active">
                     <a className="nav-link">Contacts</a>
                   </Link>
@@ -88,7 +85,13 @@ const Navbar3 = () => {
               </ul>
             </div>
 
-           
+            {<div className="others-option">
+              <Link href="https://cpf.instaleads.fr" activeClassName="active">
+                <a className="btn-style-one red-light-color">
+                  Lead Market <i className="bx bx-chevron-right"></i>
+                </a>
+              </Link>
+            </div> }
           </nav>
         </div>
       </div>

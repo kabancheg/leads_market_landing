@@ -27,15 +27,15 @@ const Content = () => {
             data-aos-duration="1200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg1} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$45</div>
+                <div className="price">15€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
+                  <Link href="https://pac.instaleads.fr/">
                     <a>Pompe a chaleur</a>
                   </Link>
                 </h3>
@@ -45,20 +45,20 @@ const Content = () => {
                       <div className="img">
                         <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>David Allen</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">PAC</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 14 Lessons
+                  <i className="flaticon-video-player"></i> 14 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 125 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -71,17 +71,17 @@ const Content = () => {
             data-aos-delay="100"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://iso.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg2} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$55</div>
+                <div className="price">55€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
+                  <Link href="https://iso.instaleads.fr/">
                     <a>
-                      Write Like a Boss: Master Your Business Writing Skills
+                      Isolation Thermique Exterieur et Intérieur
                     </a>
                   </Link>
                 </h3>
@@ -89,22 +89,22 @@ const Content = () => {
                   <li>
                     <div className="author d-flex align-items-center">
                       <div className="img">
-                        <Image src={usersImg2} alt="author" />
+                        <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>Alina Smith</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">ISO</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 10 Lessons
+                  <i className="flaticon-video-player"></i> 10 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 50 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -117,38 +117,38 @@ const Content = () => {
             data-aos-delay="200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg3} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$69</div>
+                <div className="price">12€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Asynchronous JavaScript: Promises, Callbacks</a>
+                  <Link href="https://cag.instaleads.fr/">
+                    <a>Chaudière à granulé</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
                   <li>
                     <div className="author d-flex align-items-center">
                       <div className="img">
-                        <Image src={usersImg3} alt="author" />
+                        <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>James Andy</span>
+                      <span>Mon artisanRGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">CAG</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 09 Lessons
+                  <i className="flaticon-video-player"></i> 09 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 41 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -160,17 +160,17 @@ const Content = () => {
             data-aos-duration="1200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg4} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$45</div>
+                <div className="price">15€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
+                  <Link href="https://pv.instaleads.fr/">
                     <a>
-                      Node.js for Beginners: Go From Zero to Hero with Node.js
+                      Panneaux Solaire
                     </a>
                   </Link>
                 </h3>
@@ -180,20 +180,20 @@ const Content = () => {
                       <div className="img">
                         <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>David Allen</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">PV</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 14 Lessons
+                  <i className="flaticon-video-player"></i> 14 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 125 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -206,7 +206,7 @@ const Content = () => {
             data-aos-delay="100"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://cpf.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg5} alt="courses" />
                 </a>
@@ -214,8 +214,8 @@ const Content = () => {
               <div className="content">
                 <div className="price">$55</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Successful Course: Robot Humanoid Walk</a>
+                  <Link href="https://cpf.instaleads.fr/">
+                    <a>Formation CPF</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
@@ -224,20 +224,20 @@ const Content = () => {
                       <div className="img">
                         <Image src={usersImg2} alt="author" />
                       </div>
-                      <span>Alina Smith</span>
+                      <span>Mes droits formation</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">CPF</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 10 Lessons
+                  <i className="flaticon-video-player"></i> 10 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 50 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -250,16 +250,16 @@ const Content = () => {
             data-aos-delay="200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg6} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$69</div>
+                <div className="price">19€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Graphic Design MasterclassName: Design Course A-z</a>
+                  <Link href="https://aa.instaleads.fr/">
+                    <a>Aide auditif</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
@@ -268,20 +268,20 @@ const Content = () => {
                       <div className="img">
                         <Image src={usersImg3} alt="author" />
                       </div>
-                      <span>James Andy</span>
+                      <span>Direct auditif</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">AA</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 09 Lessons
+                  <i className="flaticon-video-player"></i> 09 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 41 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -293,38 +293,38 @@ const Content = () => {
             data-aos-duration="1200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg7} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$45</div>
+                <div className="price">15€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Photography Is A Complete Guideline For Learning</a>
+                  <Link href="https://as.instaleads.fr/">
+                    <a>Assurance</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
                   <li>
                     <div className="author d-flex align-items-center">
                       <div className="img">
-                        <Image src={usersImg1} alt="author" />
+                        <Image src={usersImg3} alt="author" />
                       </div>
-                      <span>David Allen</span>
+                      <span>Directmutuelle.com</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">AS</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 14 Lessons
+                  <i className="flaticon-video-player"></i> 14 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 125 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -337,38 +337,38 @@ const Content = () => {
             data-aos-delay="100"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg8} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$55</div>
+                <div className="price">15€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Finance Fundamentals - Easy Guide To Better Finances</a>
+                  <Link href="https://pg.instaleads.fr/">
+                    <a>Pôele à granulé</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
                   <li>
                     <div className="author d-flex align-items-center">
                       <div className="img">
-                        <Image src={usersImg2} alt="author" />
+                        <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>Alina Smith</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">PAG</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 10 Lessons
+                  <i className="flaticon-video-player"></i> 50 Leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 50 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>
@@ -381,38 +381,38 @@ const Content = () => {
             data-aos-delay="200"
           >
             <div className="single-courses-box">
-              <Link href="/courses/courses-details">
+              <Link href="https://pac.instaleads.fr/">
                 <a className="image d-block">
                   <Image src={coursesImg9} alt="courses" />
                 </a>
               </Link>
               <div className="content">
-                <div className="price">$69</div>
+                <div className="price">19€</div>
                 <h3 className="nunito-font">
-                  <Link href="/courses/courses-details">
-                    <a>Medical Terminology - Start Basic Learning Course</a>
+                  <Link href="https://pac.instaleads.fr/">
+                    <a>Fenetre</a>
                   </Link>
                 </h3>
                 <ul className="info d-flex align-items-center justify-content-between">
                   <li>
                     <div className="author d-flex align-items-center">
                       <div className="img">
-                        <Image src={usersImg3} alt="author" />
+                        <Image src={usersImg1} alt="author" />
                       </div>
-                      <span>James Andy</span>
+                      <span>Mon artisan RGE</span>
                     </div>
                   </li>
                   <li>
-                    <span className="status">Popular</span>
+                    <span className="status">FE</span>
                   </li>
                 </ul>
               </div>
               <ul className="box-footer d-flex justify-content-between align-items-center">
                 <li>
-                  <i className="flaticon-video-player"></i> 09 Lessons
+                  <i className="flaticon-video-player"></i> 3 leads
                 </li>
                 <li>
-                  <i className="flaticon-team"></i> 41 Students
+                  <i className="flaticon-team"></i> Aujourd'hui
                 </li>
               </ul>
             </div>

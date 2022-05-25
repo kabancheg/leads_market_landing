@@ -1042,7 +1042,7 @@
   .main-nav .navbar .others-option {
     position: absolute;
     margin: 0;
-    top: 12px;
+    top: 0px;
     right: 45px;
   }
   .main-nav .navbar .others-option .btn-style-one {

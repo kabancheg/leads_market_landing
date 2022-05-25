@@ -10,12 +10,12 @@ const Index = () => {
     <>
       <PageTitle page="Services" />
       <Navbar3 />
-      <div className="page-title-area style-two">
+      <div className="page-title-area">
         <div className="container">
           <div className="page-title-content">
-            {/* <span className="sub-title yellow-color">
-              Learn at your own pace
-            </span> */}
+            <span className="sub-title yellow-color">
+              Alimentez vos commerciaux
+            </span> 
             <h1>Thématiques Leads </h1>
           </div>
         </div>

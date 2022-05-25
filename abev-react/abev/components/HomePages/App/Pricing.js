@@ -41,6 +41,15 @@ const Pricing = () => {
                       <i className="flaticon-draw-check-mark"></i>
                       Lead qualifie
                     </li>
+                
+                    <li>
+                      <i className="flaticon-draw-check-mark"></i>
+                      Lead qualifie
+                    </li>
+                    <li>
+                      <i className="flaticon-draw-check-mark"></i>
+                      Lead qualifie
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -62,6 +71,18 @@ const Pricing = () => {
                     Commencez maintenant <i className="bx bx-chevron-right"></i>
                   </a>
 
+                  <ul className="features-list">
+                    <li>
+                      <i className="flaticon-draw-check-mark"></i>
+                      Lead qualifie
+                    </li>
+                  </ul>
+                  <ul className="features-list">
+                    <li>
+                      <i className="flaticon-draw-check-mark"></i>
+                      Lead qualifie
+                    </li>
+                  </ul>
                   <ul className="features-list">
                     <li>
                       <i className="flaticon-draw-check-mark"></i>

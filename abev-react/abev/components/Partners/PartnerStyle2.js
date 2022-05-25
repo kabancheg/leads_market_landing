@@ -13,7 +13,7 @@ const PartnerStyle2 = () => {
 				<div className="row align-items-center">
 					<div className="col-lg-4 col-md-12">
 						<div className="partner-title">
-						Reconnu par des entreprises célèbres:
+						Nos Partenaires Acquisition:
 						</div>
 					</div>
 					<div className="col-lg-8 col-md-12">
@@ -35,10 +35,10 @@ const PartnerStyle2 = () => {
 										/>
 									</div>
 								</div>
-								{/* <div className="col-lg-3 col-md-3 col-sm-3 col-6">
+								<div className="col-lg-3 col-md-3 col-sm-3 col-6">
 									<div className="partner-item">
 										<Image
-											src={partnerImg3}
+											src={partnerImg1}
 											alt="partner-image"
 										/>
 									</div>
@@ -46,11 +46,11 @@ const PartnerStyle2 = () => {
 								<div className="col-lg-3 col-md-3 col-sm-3 col-6">
 									<div className="partner-item">
 										<Image
-											src={partnerImg4}
+											src={partnerImg1}
 											alt="partner-image"
 										/>
 									</div>
-								</div> */}
+								</div> 
 							</div>
 						</div>
 					</div>
