@@ -1,15 +1,15 @@
 import React from "react";
 import Link from 'next/link';
 import PageTitle from "@/components/Layout/PageTitle";
-import Navbar from "@/components/Layout/Navigations/Navbar1";
-import FooterTwo from "@/components/Layout/Footer/FooterTwo";
+import Navbar3 from "@/components/Layout/Navigations/Navbar3";
+import FooterThree from "@/components/Layout/Footer/FooterThree";
 import PrivacyPolicyContent from "@/components/privacyPolicy/PrivacyPolicyContent";
 
 const PrivacyPolicy = () => {
   return (
     <>
       <PageTitle page="Privacy Policy" />
-      <Navbar />
+      <Navbar3 />
       <div className="page-title-area">
         <div className="container">
           <div className="page-title-content">
@@ -26,7 +26,7 @@ const PrivacyPolicy = () => {
         </div>
       </div>
       <PrivacyPolicyContent />
-      <FooterTwo />
+      <FooterThree />
     </>
   );
 };
